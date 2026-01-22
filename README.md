@@ -1,7 +1,7 @@
 
-# **Vendor Performance , Profitability Analysis and Dashboard **
+# Vendor Performance , Profitability Analysis and Dashboard 
 
-![Uploading image.png…]()
+![Dashboard](<img width="2000" height="1171" alt="image" src="https://github.com/user-attachments/assets/9f2c1590-dd46-438e-8353-2d8d51e023b7" />)
 
 
 
