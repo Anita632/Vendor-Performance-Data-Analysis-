@@ -112,15 +112,6 @@ To validate observed profitability differences, hypothesis testing was performed
 * High-volume vendors should focus on cost optimization to improve margins
 
 
-## **7. Next Steps**
 
-Future enhancements can further strengthen the analytical depth and business impact.
-
-### **Proposed Extensions**
-
-* Incorporate time-series analysis for seasonal demand patterns
-* Build predictive models for vendor sales and inventory forecasting
-* Develop an interactive dashboard for real-time vendor monitoring
-* Integrate external data such as promotions, region, and customer demand
 
 
