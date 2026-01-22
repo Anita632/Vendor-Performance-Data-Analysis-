@@ -1,7 +1,12 @@
 
 # Vendor Performance , Profitability Analysis and Dashboard 
 
-![Dashboard](<img width="2000" height="1171" alt="image" src="https://github.com/user-attachments/assets/9f2c1590-dd46-438e-8353-2d8d51e023b7" />)
+## 📊 Vendor Performance Dashboard
+
+<p align="center">
+  <img src="images/vendor-dashboard.png" alt="Vendor Performance Dashboard" width="850">
+</p>
+
 
 
 
