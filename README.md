@@ -1,10 +1,9 @@
 
 # Vendor Performance , Profitability Analysis and Dashboard 
 
-## 📊 Vendor Performance Dashboard
 
 <p align="center">
-  <img src="images/vendor-dashboard.png" alt="Vendor Performance Dashboard" width="850">
+  <img src="vendor_performance Dashboard.png" alt="Vendor Performance Dashboard" width="850">
 </p>
 
 
